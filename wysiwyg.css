@@ -1,0 +1,25 @@
+.famous:nth-child(odd) {
+	background-color: lightblue;
+}
+.famous:nth-child(even) {
+	background-color: lightyellow;
+}
+
+.famous {
+	margin: 20px;
+	width: 25%;
+}
+
+.border {
+	border: 1px dotted black;
+}
+
+div#container {
+	display: flex;
+}
+
+.footer {
+	font-size: .8em;
+	font-weight: 600;
+	font-style: italic;
+}
